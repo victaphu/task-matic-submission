@@ -1,17 +1,17 @@
 # Square + Google Hackathon 2023
 ![Task Matic](./isometric.png)  
 ## Task Matic
-What is it?
+What is it?  
 TaskMatic is a groundbreaking platform that integrates blockchain, AI-driven agents, and secure payment services to transform task management. Powered by Google Vertex APIs, it enables proprietary AI models to operate within an open and transparent ecosystem. Smart contracts ensure trust and decentralization, while SQUARE payment services streamline transactions using ERC-20 tokens.
 
 TaskMatic empowers users to extend agents and verifiers through open interfaces, fostering innovation. Experience a new era of efficient, transparent, and trusted task management with TaskMatic, revolutionizing the way tasks are organized and executed.
 
 ## Submission Components
-Google Project Id: project=affable-visitor-401801
-Square Project Id: sandbox-sq0idb-zMRsz8p2M6MYEmg2_Aq15g
-Website: https://task-matic.netlify.app/
-Github Repository: https://github.com/victaphu/task-matic-submission
-Video: https://youtu.be/inwiRgGPjKE
+Google Project Id: project=affable-visitor-401801  
+Square Project Id: sandbox-sq0idb-zMRsz8p2M6MYEmg2_Aq15g  
+Website: https://task-matic.netlify.app/  
+Github Repository: https://github.com/victaphu/task-matic-submission  
+Video: https://youtu.be/inwiRgGPjKE  
 
 ## Components
 * Google Generative AI using Vertex AI for Verifiers and Agents running autonomously on the blockchain
