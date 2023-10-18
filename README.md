@@ -11,7 +11,7 @@ Google Project Id: project=affable-visitor-401801
 Square Project Id: sandbox-sq0idb-zMRsz8p2M6MYEmg2_Aq15g  
 Website: https://task-matic.netlify.app/  
 Github Repository: https://github.com/victaphu/task-matic-submission  
-Video: https://youtu.be/inwiRgGPjKE  
+Video: https://youtu.be/IJn6e2IoeI4  
 
 ## Components
 * Google Generative AI using Vertex AI for Verifiers and Agents running autonomously on the blockchain
