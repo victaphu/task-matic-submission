@@ -1,0 +1,26 @@
+{
+  "name": "taskmatic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-ganache": "ganache-cli -p 8545 -i 31337 -m \"print acquire shed unveil village tiny dragon swallow barely grant plug direct\"",
+    "deploy-contract": "npx hardhat compile && npx hardhat run scripts/deploy.ts --network localhost",
+    "run-agent": "ts-node agents/agent/text-agent.ts",
+    "run-verifier": "ts-node agents/verifier/text-verifier.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.1"
+  },
+  "dependencies": {
+    "@google-cloud/aiplatform": "^3.2.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.8.0",
+    "square-connect": "^6.20201216.0"
+  }
+}
