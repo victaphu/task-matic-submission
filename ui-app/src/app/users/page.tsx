@@ -138,7 +138,7 @@ function UserScreen() {
         )}*/}
 
         {showCreateTask && (
-          <CreateTaskForm createTask={""} />
+          <CreateTaskForm />
         )}
       </main>
     </div>
