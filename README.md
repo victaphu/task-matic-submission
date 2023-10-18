@@ -1,6 +1,8 @@
 # Square + Google Hackathon 2023
+![Task Matic](./isometric.png)  
 ## Task Matic
 What is it?
+
 
 ## Components
 * Google Generative AI using Vertex AI for Verifiers and Agents running autonomously on the blockchain
